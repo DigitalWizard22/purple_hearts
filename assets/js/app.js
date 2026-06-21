@@ -9,7 +9,7 @@ const trackList = [
     { title: "Adore You", artist: "Harry Styles", file: "assets/audio/adore_you.mp3" },
     { title: "Lovers", artist: "Anna of the North", file: "assets/audio/lovers.mp3" },
     { title: "Treasure", artist: "Bruno Mars", file: "assets/audio/treasure.mp3" },
-    { title: "Cruel Summer", artist: "Taylor Swift", file: "assets/audio/cruel_summer.mp3" },
+    { title: "Silver Light", artist: "ATEEZ", file: "assets/audio/silver_light.mp3" },
     { title: "Levitating", artist: "Dua Lipa ft. DaBaby", file: "assets/audio/levitating.mp3" },
     { title: "One Thing", artist: "One Direction", file: "assets/audio/one_thing.mp3" },
     { title: "What Makes You Beautiful", artist: "One Direction", file: "assets/audio/what_makes_you_beautiful.mp3" },
